@@ -1,0 +1,11 @@
+
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Íò£øÿÿÿÿÿ
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Œ¿ôèüÿÿÿÿ
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "newUserModel".(¢‡¶æøÿÿÿÿ
+
+java:S1488'"dImmediately return this expression instead of assigning it to the temporary variable "newUserModel".(ª¸„Úùÿÿÿÿ
+B
+java:S1905&"'Remove this unnecessary cast to "List".(¡¨ëÏûÿÿÿÿ
+n
+java:S1602'"SRemove useless curly braces around statement and then remove useless return keyword(ª¸„Úùÿÿÿÿ
